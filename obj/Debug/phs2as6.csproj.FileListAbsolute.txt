@@ -1,0 +1,8 @@
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\bin\Debug\phs2as6.exe.config
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\bin\Debug\phs2as6.exe
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\bin\Debug\phs2as6.pdb
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\obj\Debug\phs2as6.csproj.AssemblyReference.cache
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\obj\Debug\phs2as6.csproj.SuggestedBindingRedirects.cache
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\obj\Debug\phs2as6.csproj.CoreCompileInputs.cache
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\obj\Debug\phs2as6.exe
+D:\phase-2\day-6\phs2as6\phs2as6\phs2as6\obj\Debug\phs2as6.pdb
